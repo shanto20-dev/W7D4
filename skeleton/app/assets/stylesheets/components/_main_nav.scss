@@ -47,7 +47,9 @@
 
 .left-nav > ul > li:hover,
 .right-nav > ul > li:last-of-type:hover {
-  background: $lightest-gray
+  background: $lightest-gray;
 }
 
-
+.underlined:hover {
+  text-decoration: underline;
+}
