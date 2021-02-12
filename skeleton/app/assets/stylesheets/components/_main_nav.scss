@@ -54,3 +54,10 @@
 .underlined:hover {
   text-decoration: underline;
 }
+
+@media all and (max-width: 1000px) {
+  .left-nav{
+    margin: 0;
+    padding: 10px;
+  }
+}
